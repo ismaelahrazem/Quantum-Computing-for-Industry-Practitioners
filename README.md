@@ -123,7 +123,11 @@ This work demonstrates how **quantum optimization** can:
 - [Projects](https://github.com/brandonhimpfen/awesome-quantum-computing)
 
 ## Papers
-- https://arxiv.org/html/2601.06281v1
+- https://arxiv.org/abs/2407.17207 - Solving The Travelling Salesman Problem Using A Single Qubit
+- https://arxiv.org/html/2504.06253v2 - Solving General QUBOs with Warm-Start QAOA via a Reduction to Max-Cut
+- https://arxiv.org/abs/1912.04088 - Grover Adaptive Search for Constrained Polynomial Binary Optimization
+- https://arxiv.org/abs/2308.13063 - Grover Search for Portfolio Selection
+- https://arxiv.org/html/2601.06281v1 - Mining Quantum Software Patterns in Open-Source Projects
 
 ---
 
