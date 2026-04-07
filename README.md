@@ -133,3 +133,18 @@ quantum-computing-industry/
 │
 ├── README.md
 └── requirements.txt
+
+## 🛠️ Related GitHub Repositories
+
+### Quantum Computing Libraries
+- [Qiskit](https://github.com/Qiskit/qiskit) - IBM's open-source quantum computing framework
+- [Cirq](https://github.com/quantumlib/Cirq) - Google's quantum computing framework
+- [Pennylane](https://github.com/PennyLaneAI/pennylane) - Quantum machine learning library
+
+### Curated list of open-source quantum projects
+- [Projects](https://github.com/qosf/awesome-quantum-software)
+- [Projects](https://github.com/brandonhimpfen/awesome-quantum-computing)
+
+### Papers
+- https://arxiv.org/html/2601.06281v1
+
