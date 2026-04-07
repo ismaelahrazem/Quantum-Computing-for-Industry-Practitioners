@@ -117,10 +117,11 @@ This work demonstrates how **quantum optimization** can:
 - [Qiskit](https://github.com/Qiskit/qiskit) - IBM's open-source quantum computing framework
 - [Cirq](https://github.com/quantumlib/Cirq) - Google's quantum computing framework
 - [Pennylane](https://github.com/PennyLaneAI/pennylane) - Quantum machine learning library
+- [Quirk] (https://algassert.com/quirk) - A drag-and-drop quantum circuit simulator
 
 ### Curated list of open-source quantum projects
 - [Projects](https://github.com/qosf/awesome-quantum-software) -Curated list of open-source quantum software projects
-- [Projects](https://github.com/brandonhimpfen/awesome-quantum-computing) - 
+- [Projects](https://github.com/brandonhimpfen/awesome-quantum-computing) - A curated list of awesome libraries, learning resources, frameworks, and tools for quantum computing
 
 ## Papers
 - https://arxiv.org/abs/2407.17207 - Solving The Travelling Salesman Problem Using A Single Qubit
