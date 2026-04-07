@@ -119,8 +119,8 @@ This work demonstrates how **quantum optimization** can:
 - [Pennylane](https://github.com/PennyLaneAI/pennylane) - Quantum machine learning library
 
 ### Curated list of open-source quantum projects
-- [Projects](https://github.com/qosf/awesome-quantum-software)
-- [Projects](https://github.com/brandonhimpfen/awesome-quantum-computing)
+- [Projects](https://github.com/qosf/awesome-quantum-software) -Curated list of open-source quantum software projects
+- [Projects](https://github.com/brandonhimpfen/awesome-quantum-computing) - 
 
 ## Papers
 - https://arxiv.org/abs/2407.17207 - Solving The Travelling Salesman Problem Using A Single Qubit
