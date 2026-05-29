@@ -1,3 +1,6 @@
+![Quantum Computing Image](images/quantum_computing.png)
+
+
 # Quantum-Computing-for-Industry-Practitioners
 Quantum Computing for Industry Practitioners is a collaborative platform designed to bridge the gap between cutting-edge quantum research and real-world industrial applications. The goal is to make state-of-the-art quantum computing techniques accessible, testable, and applicable to real problems encountered in production environments.
 
