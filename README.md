@@ -1,4 +1,4 @@
-
+![Quantum Computing Image](images/quantum_computing.png)
 
 
 # Quantum-Computing-for-Industry-Practitioners
